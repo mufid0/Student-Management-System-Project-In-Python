@@ -167,9 +167,6 @@ This project is open-source and available under the MIT License.
 
 **Mufid Panhalkar**
 
-- GitHub: https://github.com/
-- Portfolio: https://mufid0.github.io/Portfolio-Website/
-
 ---
 
 ## ⭐ Support
